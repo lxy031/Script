@@ -1,0 +1,15 @@
+#!name=威锋去广告
+#!desc=威锋去广告
+
+[URL Rewrite]
+
+# > Weifeng
+^https?:\/\/api\.wfdata\.club\/v2\/yesfeng\/(infoCenterAd|yesList) - reject
+
+[Script]
+
+#replaceBody_2 = type=http-response, pattern=^https?:\/\/api\.wfdata\.club\/v\d\/search\/hot\?, requires-body=true, max-size=3145728, script-path=https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Resource/Script/CommonScript/replace-body.js, timeout=60, argument="dataList":\[.+\]->dataList":[{}]"
+
+[MITM]
+
+hostname = %APPEND% api.wfdata.club
