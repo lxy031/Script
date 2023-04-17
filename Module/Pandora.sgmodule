@@ -1,0 +1,11 @@
+#!name=Pandora
+#!desc=Pandora管理你的订阅
+#!author=89996462
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/pandora.png
+#!homepage=https://github.com/deezertidal
+
+[Script]
+Pandora=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/lxy031/Surge/main/Module/Scripts/Pandora.js
+
+[mitm]
+hostname= %APPEND% buy.itunes.apple.com
