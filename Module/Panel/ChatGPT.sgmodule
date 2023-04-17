@@ -13,4 +13,4 @@
 # GPT
 CFGPT = script-name=CFGPT,update-interval=-1
 [Script]
-CFGPT = type=generic,timeout=6,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/CFGPT/CFGPT_2.js,argument=icon=checkmark.seal.fill&iconerr=xmark.seal.fill&icon-color=#D65C51
+CFGPT = type=generic,timeout=6,script-path=https://raw.githubusercontent.com/lxy031/Surge/main/Module/Scripts/ChatGPT.js,argument=icon=checkmark.seal.fill&iconerr=xmark.seal.fill&icon-color=#D65C51
