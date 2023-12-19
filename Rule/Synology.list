@@ -1,0 +1,8 @@
+# > Synology 解决DDNS IP获取异常，走直连
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN,ddns.synology.com
+DOMAIN,checkipv6.quickconnect.to
+DOMAIN,account.synology.com
+DOMAIN,global.quickconnect.to
