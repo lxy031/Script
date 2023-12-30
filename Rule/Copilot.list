@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,location.microsoft.com
+DOMAIN-SUFFIX,sapphire.api.microsoftapp.net
+DOMAIN,api.msn.com
+DOMAIN-SUFFIX,api.microsoftapp.net
+DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+DOMAIN-SUFFIX,ssl.bing.com
+DOMAIN,shopping.bing-shopping.microsoft-falcon.io
+DOMAIN,www.bing.com
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN,graph.microsoft.com
+DOMAIN,self.events.data.microsoft.com
