@@ -1,3 +1,5 @@
+#!MANAGED-CONFIG https://raw.githubusercontent.com/lxy031/Surge/main/Rule/Copilot.list
+
 DOMAIN-SUFFIX,location.microsoft.com
 DOMAIN-SUFFIX,sapphire.api.microsoftapp.net
 DOMAIN,api.msn.com
