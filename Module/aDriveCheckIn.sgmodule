@@ -1,0 +1,9 @@
+#!name=阿里网盘签到 @zqzess
+#!desc=🔗 [2023/12/28 20:09:47] 阿里网盘签到
+
+# 🔗 模块链接
+#SUBSCRIBED https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.sgmodule
+
+
+[Script]
+阿里网盘签到 = type=cron,cronexp="15 1,9 * * *",script-path=https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.js

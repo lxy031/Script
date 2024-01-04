@@ -1,0 +1,12 @@
+#!name=阿里网盘token获取 @zqzess
+#!desc=🔗 [2023/12/28 20:09:28] 阿里网盘签到token获取
+
+# 🔗 模块链接
+#SUBSCRIBED https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn_token.sgmodule
+
+
+[Script]
+阿里网盘token获取 = type=http-request,pattern=^https:\/\/(auth|aliyundrive)\.alipan\.com\/v2\/account\/token,requires-body=1,script-path=https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/js/Mine/aDriveCheckIn/aDriveCheckIn.js
+
+[MITM]
+hostname = %APPEND% auth.alipan.com, auth.aliyundrive.com
