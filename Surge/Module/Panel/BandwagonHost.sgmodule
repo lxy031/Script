@@ -7,5 +7,5 @@
 BandwagonHost = script-name= BandwagonHost,update-interval=3600
 
 [Script]
-BandwagonHost = type=generic,script-path=BandwagonHost.js, argument = url=http://45.78.32.59:7122&name=𝗕𝗮𝗻𝗱𝘄𝗮𝗴𝗼𝗻𝗛𝗼𝘀𝘁   𝗘𝘅𝗽 𝟮𝟬𝟮𝟰/𝟬𝟭/𝟭𝟯&icon=sun.max.fill
+BandwagonHost = type=generic,script-path=BandwagonHost.js, argument = url=http://127.0.0.1:7122&name=𝗕𝗮𝗻𝗱𝘄𝗮𝗴𝗼𝗻𝗛𝗼𝘀𝘁   𝗘𝘅𝗽 𝟮𝟬𝟮𝟰/𝟬𝟭/𝟭𝟯&icon=sun.max.fill
 
