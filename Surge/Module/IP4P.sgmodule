@@ -3,7 +3,7 @@
 
 [Script]
 
-IP4P-Request = type=http-request, pattern=https?:\/\/ip4p\.mlsao\.xxxxxxxxxxxxx\.com, script-path=IP4P.js
+IP4P-Request = type=http-request, pattern=https?:\/\/ip4p\.mlsao\.xxxxxxxxxxxxx\.com, script-path=https://raw.githubusercontent.com/lxy031/Script/main/Surge/Module/Scripts/IP4P.js
 
 [MITM]
 hostname = %APPEND% ip4p.xxxxxxxxxxxxx.com
