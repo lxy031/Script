@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,bwh81.net
+DOMAIN-SUFFIX,bwh85.net
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-KEYWORD,bwh
+IP-CIDR,45.135.0.0/16,no-resolve
+IP-CIDR,45.78.0.0/16,no-resolve
+
