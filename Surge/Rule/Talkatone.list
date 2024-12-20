@@ -4,7 +4,7 @@
 # UPDATED: 2023-09-15 10:46:26
 # DOMAIN-SUFFIX: 1
 # IP-CIDR: 4
-# DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,tktn.be
 IP-CIDR,63.251.124.0/24,no-resolve 
 IP-CIDR,205.164.56.29/24,no-resolve
 IP-CIDR,69.46.75.0/24,no-resolve
