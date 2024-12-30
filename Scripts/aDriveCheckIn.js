@@ -1,5 +1,5 @@
 /*
- * 本脚本旨在实现阿里云盘自动签到，支持Surge,stash,Loon,QuantumultX
+ * 本脚本旨在实现阿里云盘自动签到，支持Surge,stash,Loon,QuantumultX1
  * @author: zqzess
  * 仓库地址：https://github.com/zqzess/rule_for_quantumultX
  * boxjs可以查看refresh_token
